@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="managementModelStoreContainer" CdmEntityContainer="managementEntities">
+    <EntitySetMapping Name="tblmembermasters">
+      <EntityTypeMapping TypeName="managementModel.tblmembermaster">
+        <MappingFragment StoreEntitySet="tblmembermaster">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="creationtime" ColumnName="creationtime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbltransactionmasters">
+      <EntityTypeMapping TypeName="managementModel.tbltransactionmaster">
+        <MappingFragment StoreEntitySet="tbltransactionmaster">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="transactionfrom" ColumnName="transactionfrom" />
+          <ScalarProperty Name="transactionto" ColumnName="transactionto" />
+          <ScalarProperty Name="transactiontype" ColumnName="transactiontype" />
+          <ScalarProperty Name="credit" ColumnName="credit" />
+          <ScalarProperty Name="debit" ColumnName="debit" />
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+          <ScalarProperty Name="transactiondate" ColumnName="transactiondate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbltransactiontypes">
+      <EntityTypeMapping TypeName="managementModel.tbltransactiontype">
+        <MappingFragment StoreEntitySet="tbltransactiontype">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,40 @@
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\bin\Debug\HisaabManagement.exe.config
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\bin\Debug\HisaabManagement.exe
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\bin\Debug\HisaabManagement.pdb
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\MainWindow.baml
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\MainWindow.g.cs
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\App.g.cs
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement_MarkupCompile.cache
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.g.resources
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.Properties.Resources.resources
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.csproj.GenerateResource.Cache
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.exe
+c:\users\shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.pdb
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\bin\Debug\EntityFramework.dll
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\bin\Debug\EntityFramework.xml
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\CheckBalance.baml
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\CheckBalance.g.cs
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\TotalTransactions.baml
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\TotalTransactions.g.cs
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\IndivisualTransaction.baml
+C:\Users\Shivam\documents\visual studio 2012\Projects\HisaabManagement\HisaabManagement\obj\Debug\IndivisualTransaction.g.cs
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\bin\Debug\HisaabManagement.exe.config
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.exe
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.pdb
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\bin\Debug\HisaabManagement.exe
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\bin\Debug\HisaabManagement.pdb
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\bin\Debug\EntityFramework.dll
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\bin\Debug\EntityFramework.xml
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\CheckBalance.baml
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\IndivisualTransaction.baml
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\MainWindow.baml
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\TotalTransactions.baml
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\CheckBalance.g.cs
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\IndivisualTransaction.g.cs
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\MainWindow.g.cs
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\TotalTransactions.g.cs
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\App.g.cs
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement_MarkupCompile.cache
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.g.resources
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.Properties.Resources.resources
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Debug\HisaabManagement.csproj.GenerateResource.Cache

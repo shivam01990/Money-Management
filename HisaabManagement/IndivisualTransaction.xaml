@@ -1,0 +1,26 @@
+﻿<Window x:Class="HisaabManagement.IndivisualTransaction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IndivisualTransaction" Height="650" Width="1000" Icon="images/favicon.ico">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="992" Margin="0,-3,0,0" FontWeight="Bold" FontSize="16">
+            <MenuItem Header="Distributed Transaction" Click="MenuItem_Click_1" />
+            <MenuItem Header="Indivisual Transaction" Name="menu_insivisualtxn" Click="menu_insivisualtxn_Click"/>
+            <MenuItem Header="Check balance" Click="MenuItem_Click_2" />
+            <MenuItem Header="Total Transactions" Name="menutotaltxn" Click="menutotaltxn_Click"/>
+        </Menu>
+        <ComboBox Name="combofrom" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="449,89,0,0"/>
+        <ComboBox Name="comboto" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="449,143,0,0"/>
+        <Label Content="From User" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="346,89,0,0" FontWeight="Bold" FontSize="14"/>
+        <Label Content="To User" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="364,136,0,0" RenderTransformOrigin="0.491,2.255" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Indivisual Transaction" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="364,39,0,0" FontWeight="Bold" FontSize="18" Width="223"/>
+        <TextBox Name="txtamount" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="449,198,0,0"/>
+        <TextBox Name="txtremarks" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="298" Margin="449,258,0,0" RenderTransformOrigin="0.479,2.027"/>
+        <Label Content="Amount" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="364,198,0,0" RenderTransformOrigin="0.491,2.255" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Remarks" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="357,252,0,0" RenderTransformOrigin="0.491,2.255" FontSize="14" FontWeight="Bold"/>
+        <Button Name="btntransfer" Content="Transfer" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="400,322,0,0" RenderTransformOrigin="0.391,-0.662" FontWeight="Bold" FontSize="14" Click="btntransfer_Click"/>
+        <ProgressBar Name="progressbar" HorizontalAlignment="Left" Height="38" VerticalAlignment="Top" Width="555" Margin="216,381,0,0"/>
+
+
+    </Grid>
+</Window>
