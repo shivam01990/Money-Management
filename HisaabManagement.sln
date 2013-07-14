@@ -3,16 +3,40 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HisaabManagement", "HisaabManagement\HisaabManagement.csproj", "{523B72B8-2E1F-45E9-87F3-D238D7575682}"
 EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Money Management Installer", "Money Management Installer\Money Management Installer.isproj", "{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{523B72B8-2E1F-45E9-87F3-D238D7575682} = {523B72B8-2E1F-45E9-87F3-D238D7575682}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
 		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
 		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523B72B8-2E1F-45E9-87F3-D238D7575682}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{523B72B8-2E1F-45E9-87F3-D238D7575682}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
 		{523B72B8-2E1F-45E9-87F3-D238D7575682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{523B72B8-2E1F-45E9-87F3-D238D7575682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523B72B8-2E1F-45E9-87F3-D238D7575682}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{523B72B8-2E1F-45E9-87F3-D238D7575682}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
 		{523B72B8-2E1F-45E9-87F3-D238D7575682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523B72B8-2E1F-45E9-87F3-D238D7575682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523B72B8-2E1F-45E9-87F3-D238D7575682}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{523B72B8-2E1F-45E9-87F3-D238D7575682}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.Debug|Any CPU.ActiveCfg = DVD-5
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.Debug|Any CPU.Build.0 = DVD-5
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.DVD-5|Any CPU.Build.0 = DVD-5
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.Release|Any CPU.ActiveCfg = SingleImage
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.Release|Any CPU.Build.0 = SingleImage
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{7F04AFED-7D1E-4206-9637-C5D9388DB4EC}.SingleImage|Any CPU.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

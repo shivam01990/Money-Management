@@ -18,3 +18,4 @@ G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Release\
 G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Release\HisaabManagement.csproj.GenerateResource.Cache
 G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Release\HisaabManagement.exe
 G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Release\HisaabManagement.pdb
+G:\my study material\asp projects\HisaabManagement\HisaabManagement\obj\Release\HisaabManagement.csprojResolveAssemblyReference.cache
