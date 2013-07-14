@@ -68,5 +68,13 @@ namespace HisaabManagement
             gridtxn.ItemsSource = TransactionProvider.GetGridData(fromdate, todate);
 
         }
+
+        protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
+        {
+            // base.OnClosing(e);
+            App.Current.Shutdown();
+        }
+
+       
     }
 }

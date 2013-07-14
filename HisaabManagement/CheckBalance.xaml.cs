@@ -109,6 +109,11 @@ namespace HisaabManagement
             ob.ShowDialog();
         }
 
+        protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
+        {
+            // base.OnClosing(e);
+            App.Current.Shutdown();
+        }
 
     }
 }
